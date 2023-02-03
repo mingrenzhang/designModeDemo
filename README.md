@@ -1,0 +1,2 @@
+# designModeDemo
+对java的设计模进行了demo实现，可以与设计模式理论知识结合加深对设计模式的理解
